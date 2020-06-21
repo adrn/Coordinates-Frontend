@@ -1,4 +1,4 @@
-Flask==0.10
+Flask==1.0
 numpy>=1.6
 Astropy>=0.4.2
 inflect
